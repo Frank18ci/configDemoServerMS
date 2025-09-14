@@ -1,0 +1,4 @@
+mensaje:
+  bienvenida: ¡Hola desde Config Server!
+otro:
+  parametro: Valor desde Config Server
